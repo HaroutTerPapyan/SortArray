@@ -1,0 +1,22 @@
+50
+green  lemon  red  green    
+red  white    
+blue    
+blue  orange  red  lilac  white  green  white  lemon    
+lemon  blue    
+lemon  yellow  white    
+red  red    
+green    
+green  lemon  green    
+orange    
+blue    
+blue    
+lilac    
+blue  white    
+red    
+red  blue  red    
+blue  green  red  blue    
+brown    
+green  red    
+blue  lemon    
+yellow  yellow  blue  blue  blue  
